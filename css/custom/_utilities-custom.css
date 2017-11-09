@@ -1,0 +1,10 @@
+.bg-fixed {
+  background-attachment: fixed;
+}
+
+.mobile .bg-fixed,
+.tablet .bg-fixed,
+.ipad .bg-fixed,
+.ios .bg-fixed {
+  background-attachment: scroll;
+}
