@@ -31,7 +31,7 @@
                   <!-- RD Navbar Toggle-->
                   <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a href="index.html" class="brand-name"><img src="images/brand-header.png" width="30" height="32" alt="" class="img-responsive"></a></div>
+                  <div class="rd-navbar-brand"><a href="index.php" class="brand-name"><img src="images/brand-header.png" width="30" height="32" alt="" class="img-responsive"></a></div>
                 </div>
                 <!-- RD Navbar Nav-->
                 <ul class="rd-navbar-nav">
@@ -58,7 +58,7 @@
         <section id="home" data-type="anchor" class="section-41 section-sm-bottom-75 bg-image bg-image-1">
           <div class="shell">
             <div class="range">
-              <div class="cell-md-8 cell-lg-7"><a href="index.html" class="brand"><img src="images/brand.png" width="234" height="82" alt="" class="img-responsive"></a>
+              <div class="cell-md-8 cell-lg-7"><a href="index.php" class="brand"><img src="images/brand.png" width="234" height="82" alt="" class="img-responsive"></a>
                 <h1>
                   Because Money
                   Doesn’t Come
@@ -322,7 +322,7 @@ delivered by John Doe
       <footer class="page-foot">
         <div class="shell">
           <div class="range">
-            <div class="cell-lg-6"><a href="index.html" class="footer-brand"><img src="images/brand-footer.png" width="34" height="38" alt="" class="img-responsive"></a>
+            <div class="cell-lg-6"><a href="index.php" class="footer-brand"><img src="images/brand-footer.png" width="34" height="38" alt="" class="img-responsive"></a>
               <p class="copyright inset-lg-right-50">Copyright ©
 <span id="copyright-year"></span>
 <span>|</span>
